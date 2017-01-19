@@ -1,0 +1,13 @@
+﻿  Specialite.cpp
+  Personnel.cpp
+c:\users\léandre\source\repos\tp1_inf1010_leandre_telly\tp1-hiv2017\tp1\personnel.cpp(38): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\léandre\source\repos\tp1_inf1010_leandre_telly\tp1-hiv2017\tp1\personnel.cpp(54): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\léandre\source\repos\tp1_inf1010_leandre_telly\tp1-hiv2017\tp1\personnel.cpp(68): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\léandre\source\repos\tp1_inf1010_leandre_telly\tp1-hiv2017\tp1\personnel.cpp(75): warning C4018: '<' : incompatibilité signed/unsigned
+  Medecin.cpp
+  Main.cpp
+c:\users\léandre\source\repos\tp1_inf1010_leandre_telly\tp1-hiv2017\tp1\main.cpp(29): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Infirmier.cpp
+  Génération de code en cours...
+  TP1.vcxproj -> C:\Users\Léandre\Source\Repos\TP1_INF1010_Leandre_Telly\TP1-Hiv2017\Debug\TP1.exe
+  TP1.vcxproj -> C:\Users\Léandre\Source\Repos\TP1_INF1010_Leandre_Telly\TP1-Hiv2017\Debug\TP1.pdb (Full PDB)
